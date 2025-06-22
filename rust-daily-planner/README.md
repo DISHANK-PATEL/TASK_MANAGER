@@ -3,6 +3,9 @@
 A modern daily planner built on the Internet Computer Protocol (ICP) featuring a monthly calendar for tracking daily activities, appointments, and tasks. All data is stored on-chain securely. For each day, historical facts can be queried using HTTPS outcalls, a powerful feature that allows ICP canisters to obtain data from external sources.
 
 This application's logic is written in [Rust](https://internetcomputer.org/docs/building-apps/developer-tools/cdks/rust/intro-to-rust), a primary programming language for developing canisters on ICP.
+## Screenshots:
+![image](https://github.com/user-attachments/assets/bd27d9a4-c916-467c-b36f-8e169d881bc3)
+![image](https://github.com/user-attachments/assets/13b51adc-58ad-4367-9d5b-42c54cfcae80)
 
 ## Features
 
